@@ -1,0 +1,43 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+.left{
+    display: flex;
+    gap: 10px;
+}
+
+.logo {
+  width: 33px;
+  height: 30px;
+}
+
+.right{
+    display: flex;
+    gap: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+input{
+    padding: 5px;
+}
+
+b{
+    font-size: 20px;
+    font-weight: bold;
+}
+Link{
+    text-decoration: none;
+    color: white;
+    gap: 40px;
+}
